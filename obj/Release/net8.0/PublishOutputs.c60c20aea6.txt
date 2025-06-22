@@ -1,0 +1,17 @@
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\webappdev.exe
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\publish\publish\web.config
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\publish\web.config
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\appsettings.Development.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\appsettings.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\publish\appsettings.Development.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\publish\appsettings.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\publish\publish\appsettings.Development.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\publish\publish\appsettings.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\publish\publish\webappdev.deps.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\publish\publish\webappdev.runtimeconfig.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\publish\webappdev.deps.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\publish\webappdev.runtimeconfig.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\webappdev.dll
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\webappdev.deps.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\webappdev.runtimeconfig.json
+C:\Users\VARSHI\OneDrive\Documents\Desktop\varshiapp\my-dotnet-demo\publish\webappdev.pdb

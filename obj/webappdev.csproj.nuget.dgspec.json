@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VARSHI\\OneDrive\\Documents\\Desktop\\javacourse\\webappdev\\webappdev\\webappdev.csproj": {}
+    "C:\\Users\\VARSHI\\OneDrive\\Documents\\Desktop\\varshiapp\\my-dotnet-demo\\webappdev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VARSHI\\OneDrive\\Documents\\Desktop\\javacourse\\webappdev\\webappdev\\webappdev.csproj": {
+    "C:\\Users\\VARSHI\\OneDrive\\Documents\\Desktop\\varshiapp\\my-dotnet-demo\\webappdev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VARSHI\\OneDrive\\Documents\\Desktop\\javacourse\\webappdev\\webappdev\\webappdev.csproj",
+        "projectUniqueName": "C:\\Users\\VARSHI\\OneDrive\\Documents\\Desktop\\varshiapp\\my-dotnet-demo\\webappdev.csproj",
         "projectName": "webappdev",
-        "projectPath": "C:\\Users\\VARSHI\\OneDrive\\Documents\\Desktop\\javacourse\\webappdev\\webappdev\\webappdev.csproj",
+        "projectPath": "C:\\Users\\VARSHI\\OneDrive\\Documents\\Desktop\\varshiapp\\my-dotnet-demo\\webappdev.csproj",
         "packagesPath": "C:\\Users\\VARSHI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VARSHI\\OneDrive\\Documents\\Desktop\\javacourse\\webappdev\\webappdev\\obj\\",
+        "outputPath": "C:\\Users\\VARSHI\\OneDrive\\Documents\\Desktop\\varshiapp\\my-dotnet-demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VARSHI\\AppData\\Roaming\\NuGet\\NuGet.Config"
